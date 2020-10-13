@@ -1,19 +1,22 @@
 # Project Name
 프로젝트 이름
-## Description
+## Overview
 프로젝트 설명
-## Dependencies
+
+
+## Getting Started
+### Dependencies
 의존성
++ [Dependency 1]
+	+ [Dependency1 Install Link]()
++ [Dependency 2]
+	+ [Dependency2 Install Link]()
++ [ECT.....]
 
-*
-*
-*
-
-## Installation
-
-*
-*
-*
+### Installation
+	[Install command1...]
+	[Install command2...]
+	[Install command3...]
 
 ## Usage
 사용 예시
@@ -33,6 +36,7 @@ Usage Example
 |-----|-----|-----|
 |Joe|Backend|joe@example.com|
 
-
+## Used or Referenced Projects
+ - [referenced Project](project link) - **LICENSE** - little-bit introduce
 ## License
-라이센스
+	[License]
